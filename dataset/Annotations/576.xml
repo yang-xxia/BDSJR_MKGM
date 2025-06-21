@@ -1,0 +1,50 @@
+<annotation>
+	<folder>BBH-V7</folder>
+	<filename>283532002~ 0#伸缩缝泥沙堵塞.jpg</filename>
+	<path>E:\yxx\BBH-V7\283532002~ 0#伸缩缝泥沙堵塞.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>606</width>
+		<height>455</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blockage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>187</ymin>
+			<xmax>536</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>expansion joint</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>128</ymin>
+			<xmax>575</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bridge floor system</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>35</ymin>
+			<xmax>595</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>
