@@ -81,10 +81,3 @@ This pretrained model can be easily downloaded and used via [Hugging Face Transf
 ```python
 from timm import create_model
 model = create_model('mambavision_b_1k', pretrained=True)
-
-
-
-
-
-
-
