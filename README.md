@@ -40,12 +40,12 @@ The dataset contains **1,463 bridge inspection images**, each annotated with **h
 
 ### 🔽 Download
 
-You can download the full dataset from:
+The full bridge inspection dataset (`BDSJR_dataset.tar.gz`) is available via cloud drive:
 
-🔗 [Cloud Drive Download](https://ieeexplore.ieee.org/document/10546293) *(access code required)*
+🔗 [Cloud Drive Download](https://pan.baidu.com/s/1KUGbvK1DHudWw7j4nlBt1Q) *(access code required)*
 
 > 📌 **Note**: The extraction code is not publicly available. Please contact the authors for academic or collaborative use.  
-> 📧 Contact Email: `your_email@example.com`
+> 📧 Contact Email: `yxxia@mails.cqjtu.edu.cn`
 
 ---
 
